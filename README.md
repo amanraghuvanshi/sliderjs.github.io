@@ -30,4 +30,5 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 
 ![image](https://user-images.githubusercontent.com/110326399/204995100-d98398aa-6981-41f3-8f55-4dedf875d5bf.png)
 
-<p align="center><strong>Image Gallery Slider using the Pure Js Functionalities</strong></p>
+<p align="center"><strong>Image Gallery Slider using the Pure Js Functionalities</strong></p>
+<p align="center"><strong>P R E V I E W</strong></p>
